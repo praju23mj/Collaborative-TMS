@@ -1,6 +1,6 @@
 # Collaborative Task Management App
 
-This is a Collaborative Task Management Application built with React.js. It allows users to create, assign, and track tasks in a team environment.
+This is a Collaborative Task Management Application built with React.js and backend includes express and mongoDb. It allows users to create, assign, and track tasks in a team environment.
 
 ## Table of Contents
 

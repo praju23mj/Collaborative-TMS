@@ -48,8 +48,8 @@ You can try the app live at [Live Demo Link](https://sparkling-muffin-5cc9e1.net
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Fahim2280/Collaborative_Task_Management_App
-
+   git clone https://github.com/praju23mj/Collaborative-TMS.git
+   
 2. Navigate to the project directory:
 
     ```bash

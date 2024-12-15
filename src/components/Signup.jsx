@@ -56,7 +56,7 @@ const Signup = () => {
                   htmlFor="name"
                   className="block mb-2 text-sm font-medium text-gray-900"
                 >
-                  Enter your name
+                  Your name
                 </label>
                 <input
                   type="text"
@@ -73,7 +73,7 @@ const Signup = () => {
                   htmlFor="email"
                   className="block mb-2 text-sm font-medium text-gray-900"
                 >
-                  Enter Your email
+                  Your email
                 </label>
                 <input
                   type="email"
